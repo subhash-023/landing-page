@@ -52,6 +52,7 @@ nav > h2 {
 .hero-img {
     height: auto;
     width: 450px;
+    box-shadow: 5px 5px 50px #E5E7EB;
     /* padding: 24px; */
     /* border: 2px solid #F9FAF8; */
     /* border-radius: px; */
